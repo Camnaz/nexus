@@ -20,4 +20,4 @@ At Nexus, we envision a future where decentralized application development is st
 
 ## Join us on our Mission
 
-We are excited to embark on this ambitious journey to revolutionize decentralized application development. By joining Nexus, you will be a part of a community of passionate developers who are committed to building a better future for all. Follow our Twitter for continued updates on our progress, and join us on this exciting mission today.
+We are excited to embark on this ambitious journey to revolutionize decentralized application development. By joining Nexus, you will be a part of a community of passionate developers who are committed to building a better future for all. Follow our [Twitter](twitter.com/devsuite) for continued updates on our progress, and join us on this exciting mission today.
