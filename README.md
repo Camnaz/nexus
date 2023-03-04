@@ -15,7 +15,7 @@ Incentivizing developers to integrate composable modules that can be shared acro
 A focus on improving the UI/UX design of web3 applications, similar to industry leaders such as Apple.
 Strong emphasis on privacy and security to protect users' data and information.
 
-##Our Vision
+## Our Vision
 
 At Nexus, we envision a future where decentralized application development is streamlined and accessible to developers of all levels. Our platform will act as a bridge between developers, networks, and end-users, enabling seamless collaboration and communication. We believe that this will bring about massive change within the web3 design and developer sphere and will help to push the boundaries of what is possible with technology.
 
