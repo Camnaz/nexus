@@ -4,7 +4,7 @@
 
 ## Overview
 
-Nexus is a visionary project that aims to revolutionize the world of decentralized application development. Our multi-year endeavor will bring together the latest advancements in the web3 space into a single platform that is accessible via web browser. With Nexus, developers can build applications that benefit end-users in ways that were not previously possible.
+Nexus is a visionary project that aims to revolutionize the world of decentralized application development. Our multi-year endeavor will bring together the latest advancements in the web3 space into a single platform that is accessible via web browser with an ios companion app. With Nexus, developers can build applications that benefit end-users in ways that were not previously possible.
 
 ## Key Features
 
