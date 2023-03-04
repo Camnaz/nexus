@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/32852637/221971794-c5021135-4048-4e6d-9219-8f3bb8b14719.png" alt="nexus-banner" width="550" height="300"/>
+![Twitter-banner](https://user-images.githubusercontent.com/32852637/222915712-93794704-3109-4edc-9c0c-95cb52d9ec17.png)
 
 # Nexus: The Future of Decentralized Application Development
 
